@@ -1,8 +1,9 @@
 # C# Interview Preparation Guide 📘
 
-![CSharp Logo](images/csharp-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="CSharp Logo" width="100" />
 
-Welcome to the C# Interview Preparation Guide! Whether you're a beginner or an expert, this repository is designed to help you prepare for C# interviews. From basics to advanced topics, we've got you covered. 🚀
+
+Welcome to the C# Interview Preparation Guide! Whether you're a beginner or an expert, this repository is designed to help you prepare for C# interviews. 
 
 ## Table of Contents 📑
 
