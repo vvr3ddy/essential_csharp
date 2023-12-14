@@ -105,7 +105,7 @@ Control flow in C# is managed using various statements:
 ---
 
 Explore more about C#:
-- [Primitive and Non-Primitive Data Types](../Primitive_and_Non_Primitive_Datatypes.md)
-- [Value Types vs. Reference Types](../Value_and_Reference_Types.md)
+- [Primitive and Non-Primitive Data Types](./Primitive_and_Non_Primitive_Datatypes.md)
+- [Value Types vs. Reference Types](./Value_and_Reference_Types.md)
 
 Return to [Syntax and Datatypes Main Page](./README.md)
