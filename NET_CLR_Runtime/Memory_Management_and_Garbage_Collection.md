@@ -54,6 +54,6 @@ Garbage Collection (GC) in .NET is a process that automates the management of me
 
 Further Reading:
 - [Understanding Garbage Collection in .NET](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/)
-- [Optimizing Memory Management in .NET](https://www.someusefulresource.com)
+- [Optimizing Memory Management in .NET](https://capitalnumbers.medium.com/optimizing-memory-management-in-net-core-best-practices-for-enhanced-performance-c2ea08a0a4f4)
 
 Return to [CLR Runtime Main Page](./README.md)
