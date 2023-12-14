@@ -79,6 +79,6 @@ Understanding these data types is crucial for any C# developer, as they form the
 ---
 
 Explore more about C#:
-- [Value Types vs. Reference Types](../Value_Types_vs_Reference_Types/README.md)
+- [Value Types vs. Reference Types](./Value_and_Reference_Types.md)
 
 Return to [Syntax and Datatypes Main Page](./README.md)
